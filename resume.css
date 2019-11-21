@@ -1,0 +1,12 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p,.p1{
+    background-color: rgba(240, 244, 245, 0.938);
+    border: 1px solid black;
+    padding:30px;
+}
+.p1{
+  margin-top:30%;
+}
